@@ -3,8 +3,8 @@ Alessandro Petrangelo - 40061555
 
 This porgram must be run through the command prompt/line with the following commands:
 
-[path to Assignment5.exe] [-s] [id,type,name,batter,topping] [input path to ReadList.json] [output path to ItemSort.txt]  
+[path to parse_sort.exe] [-s] [id,type,name,batter,topping] [input path to ReadList.json] [output path to ItemSort.txt]  
 
 
-Ex: user\coen244\Assignment5.exe -s batter user\coen244\ReadList.json user\coen244\ItemSort.txt
+Ex: user\parse_sort.exe -s batter user\ReadList.json user\ItemSort.txt
 
